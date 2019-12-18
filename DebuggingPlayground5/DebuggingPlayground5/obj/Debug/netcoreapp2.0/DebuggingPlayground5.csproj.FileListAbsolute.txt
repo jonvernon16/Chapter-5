@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\bin\Debug\netcoreapp2.0\DebuggingPlayground5.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\bin\Debug\netcoreapp2.0\DebuggingPlayground5.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\bin\Debug\netcoreapp2.0\DebuggingPlayground5.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\bin\Debug\netcoreapp2.0\DebuggingPlayground5.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\bin\Debug\netcoreapp2.0\DebuggingPlayground5.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\DebuggingPlayground5\DebuggingPlayground5\obj\Debug\netcoreapp2.0\DebuggingPlayground5.pdb

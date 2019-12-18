@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\bin\Debug\netcoreapp2.0\TestingWhileLoops.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\bin\Debug\netcoreapp2.0\TestingWhileLoops.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\bin\Debug\netcoreapp2.0\TestingWhileLoops.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\bin\Debug\netcoreapp2.0\TestingWhileLoops.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\bin\Debug\netcoreapp2.0\TestingWhileLoops.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\TestingWhileLoops\TestingWhileLoops\obj\Debug\netcoreapp2.0\TestingWhileLoops.pdb

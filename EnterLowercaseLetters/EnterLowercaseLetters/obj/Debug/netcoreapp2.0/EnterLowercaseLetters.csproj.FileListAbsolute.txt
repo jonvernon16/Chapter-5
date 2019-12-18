@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp2.0\EnterLowercaseLetters.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp2.0\EnterLowercaseLetters.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp2.0\EnterLowercaseLetters.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp2.0\EnterLowercaseLetters.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\bin\Debug\netcoreapp2.0\EnterLowercaseLetters.pdb
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.dll
+C:\Users\jv145104\Desktop\C# Projects\Chapter-5\EnterLowercaseLetters\EnterLowercaseLetters\obj\Debug\netcoreapp2.0\EnterLowercaseLetters.pdb
